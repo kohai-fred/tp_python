@@ -20,3 +20,21 @@ relationships = [
     (5,9), (6,7), (6,8), (7,1), (7,8), (8,9),
     (10,1),(10,2),(10,3),(11,12),(11,2),(11,5)
 ]
+
+students = [
+    "Alan",
+    "Albert",
+    "Jhon",
+    "Brice",
+    "Alexendra",
+    "Brad",
+    "Carl",
+    "Dallas",
+    "Dennis",
+    "Edgar",
+     "Erika",
+     "Isaac",
+    "Ian"
+]
+
+levels = [4,2,3,5,7,8,2,6,4,3,5, 7, 5]
